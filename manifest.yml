@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database
+ - name: movies-reviews-database-fa3-nitesh
    random-route: false
    memory: 128M
